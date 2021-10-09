@@ -3,10 +3,7 @@ Flask-Cors==3.0.10
 keras-models==0.0.7
 Keras-Preprocessing==1.1.2
 numpy==1.19.5
-opencv-python==4.5.3.56
 pathlib==1.0.1
-pathy==0.6.0
 Pillow==8.3.2
-tensorflow==2.6.0
 Werkzeug==2.0.2
 
